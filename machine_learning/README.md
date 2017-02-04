@@ -3,4 +3,4 @@ This file contains all of my assignments done for Coursera's "Machine Learning" 
 
 All assignments are done in Matlab.
 ##ASSIGNMENT 1
-This assignment primarily focuses on linear regression and how it affects given data.
+This assignment primarily focuses on linear regression and how it affects given data. I was given a template and I had to complete the code on the files to have the program running properly.
